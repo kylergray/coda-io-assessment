@@ -1,5 +1,6 @@
 # RecipeFinder for Coda IO Assessment
 The url for my website is https://kylergray.github.io/coda-io-assessment/
+The project files on github are available here: https://github.com/kylergray/coda-io-assessment
 
 I used the Tasty API. This API enables you to quickly find recipes of all with various tags, and quickly search for them using key words, something that fit well to the description of this assessment.
 
